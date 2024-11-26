@@ -1,0 +1,49 @@
+
+.depicter-revert .depicter-1-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-section-118 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-120 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-125 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-127 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-129 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-130 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+
+}
